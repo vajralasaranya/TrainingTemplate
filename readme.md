@@ -22,12 +22,30 @@ features off of this template.
 If this all works then you are ready to begin building!
 
 ## First Project
+
 In the first project you are going to add items to the navigation bar, and
 add a card with some information on it.
 
-You will need to look up "Material Icons". Click on the first link. These
+**Be sure to use the Materialize CSS website to help you**
+
+> You will need to look up "Material Icons". Click on the first link. These
 are cool icons provided by google and you will need them!
 
+To get the image presented in the following card you will need to use this link
+>http://materializecss.com/images/sample-1.jpg
+
+___
+Your goal is to build on the template provided such that it look like this:
+
+![alt text][project-1-1]
+![alt text][project-1-2]
+![alt text][project-1-3]
+
+### Let me know with screen shots once you are done!
 
 [mobile-template]: http://i.imgur.com/MwkpNRw.png "Smaller width screens"
 [tablet-template]: http://i.imgur.com/Gqj2h3S.png "Larger width screens"
+
+[project-1-1]: http://i.imgur.com/Sxwedfu.png "Make a card like so"
+[project-1-2]: http://i.imgur.com/GuFQe8F.png "Add items to the slide out navbar"
+[project-1-3]: http://i.imgur.com/SVgc07I.png "Add items to the full-screen navbar"
